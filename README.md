@@ -1,4 +1,21 @@
+<h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
 <h3 align="center">A passionate AI Engineer from Karachi, Pakistan</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenk54" alt="naveenk54" /></a> </p>
+
+- 🔭 I’m currently working on **Autonomous Agentic Workflows & Self-Evolving AI Architectures**
+
+- 🌱 I’m currently learning **Multi-agent orchestration and advanced RAG optimization techniques**
+
+- 👯 I’m looking to collaborate on **Open-source Agentic AI frameworks or Web3/Crypto-AI integrations**
+
+- 🤝 I’m looking for help with **Advanced Fine-tuning of LLMs for specialized enterprise tasks**
+
+- 💬 Ask me about **Python, LangChain, Agentic AI, n8n Automation, and Modern UI/UX**
+
+- 📫 How to reach me **naveen332720@gmail.com**
+
+- ⚡ Fun fact **I spend my free time analyzing crypto charts and teaching AI agents how to think like a human (without the coffee breaks).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
